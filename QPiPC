@@ -1,0 +1,6 @@
+#ifndef QPIPC
+#define QPIPC
+
+int wiringPiSetup();
+
+#endif // QPIPC
